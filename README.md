@@ -4,7 +4,7 @@ platforms: ruby
 author: cephalin
 ---
 
-# MEAN.js sample for Azure App Service
+# Ruby on Rails sample for Azure App Service
 
 This is a sample application that you can use to follow along with the tutorial at 
 [Build a Ruby on Rails and MySQL web app in Azure](https://docs.microsoft.com/azure/app-service/containers/tutorial-ruby-mysql-app). 
