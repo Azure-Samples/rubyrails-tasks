@@ -1,9 +1,11 @@
 ---
-languages: []
+languages:
+- ruby
 page_type: sample
 products:
 - azure
 - azure-app-service
+description: "This is a sample application that you can use to follow along with the Build a Ruby on Rails and MySQL web app in Azure tutorial."
 ---
 
 # Ruby on Rails sample for Azure App Service
