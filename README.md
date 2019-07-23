@@ -17,7 +17,7 @@ This sample application is generated from the default Rails project and modified
 
 ## License
 
-See [LICENSE](LICENSE.md).
+See [LICENSE](https://github.com/Azure-Samples/rubyrails-tasks/blob/master/LICENSE.md).
 
 ## Contributing
 
